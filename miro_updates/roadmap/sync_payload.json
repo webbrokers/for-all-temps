@@ -1,0 +1,726 @@
+[
+  {
+    "cells": [
+      {
+        "columnTitle": "Title",
+        "value": "Движок Трекинга и Аналитики"
+      },
+      {
+        "columnTitle": "Status",
+        "value": "To do"
+      },
+      {
+        "columnTitle": "Priority",
+        "value": "High"
+      },
+      {
+        "columnTitle": "Description",
+        "value": "Сквозная идентификация клиентов на витринах для умной монетизации"
+      },
+      {
+        "columnTitle": "Group",
+        "value": "Group 1"
+      },
+      {
+        "columnTitle": "Направление",
+        "value": "BI отчётность"
+      },
+      {
+        "columnTitle": "Start Date",
+        "value": "2026-06-24T09:00:00Z"
+      },
+      {
+        "columnTitle": "End Date",
+        "value": "2026-07-08T18:00:00Z"
+      }
+    ],
+    "rowId": "0"
+  },
+  {
+    "cells": [
+      {
+        "columnTitle": "Title",
+        "value": "Сквозная отчётность перформа"
+      },
+      {
+        "columnTitle": "Status",
+        "value": "To do"
+      },
+      {
+        "columnTitle": "Priority",
+        "value": "High"
+      },
+      {
+        "columnTitle": "Description",
+        "value": "Видеть клиента от Входа до Канала монетизации и считать перформ"
+      },
+      {
+        "columnTitle": "Group",
+        "value": "Group 1"
+      },
+      {
+        "columnTitle": "Направление",
+        "value": "BI отчётность"
+      },
+      {
+        "columnTitle": "Start Date",
+        "value": "2026-07-09T09:00:00Z"
+      },
+      {
+        "columnTitle": "End Date",
+        "value": "2026-07-23T18:00:00Z"
+      }
+    ],
+    "rowId": "ebf68c41-5930-4138-b3ac-293cae063fd5"
+  },
+  {
+    "cells": [
+      {
+        "columnTitle": "Title",
+        "value": "Сокращатель ссылок для Трекинга"
+      },
+      {
+        "columnTitle": "Status",
+        "value": "To do"
+      },
+      {
+        "columnTitle": "Priority",
+        "value": "Medium"
+      },
+      {
+        "columnTitle": "Description",
+        "value": "Подойдёт для собственного трекинга, чтобы лучше атрибутировать клики с СМСок"
+      },
+      {
+        "columnTitle": "Group",
+        "value": "Group 1"
+      },
+      {
+        "columnTitle": "Направление",
+        "value": "BI отчётность"
+      },
+      {
+        "columnTitle": "Start Date",
+        "value": "2026-07-24T09:00:00Z"
+      },
+      {
+        "columnTitle": "End Date",
+        "value": "2026-08-07T18:00:00Z"
+      }
+    ],
+    "rowId": "1"
+  },
+  {
+    "cells": [
+      {
+        "columnTitle": "Title",
+        "value": "Трекинг сквозной аналитики и атрибуция"
+      },
+      {
+        "columnTitle": "Status",
+        "value": "To do"
+      },
+      {
+        "columnTitle": "Priority",
+        "value": "Medium"
+      },
+      {
+        "columnTitle": "Description",
+        "value": "Модуль записи всех шагов и ивентов по клиенту в ClickHouse"
+      },
+      {
+        "columnTitle": "Group",
+        "value": "Group 1"
+      },
+      {
+        "columnTitle": "Направление",
+        "value": "BI отчётность"
+      },
+      {
+        "columnTitle": "Start Date",
+        "value": "2026-08-08T09:00:00Z"
+      },
+      {
+        "columnTitle": "End Date",
+        "value": "2026-08-22T18:00:00Z"
+      }
+    ],
+    "rowId": "2"
+  },
+  {
+    "cells": [
+      {
+        "columnTitle": "Title",
+        "value": "Построение сквозной аналитики от Расхода до Дохода в автоматическом режиме"
+      },
+      {
+        "columnTitle": "Status",
+        "value": "To do"
+      },
+      {
+        "columnTitle": "Priority",
+        "value": "Medium"
+      },
+      {
+        "columnTitle": "Description",
+        "value": "Считать доходность от отказного трафика на каждый входящий источник"
+      },
+      {
+        "columnTitle": "Group",
+        "value": "Group 1"
+      },
+      {
+        "columnTitle": "Направление",
+        "value": "BI отчётность"
+      },
+      {
+        "columnTitle": "Start Date",
+        "value": "2026-08-23T09:00:00Z"
+      },
+      {
+        "columnTitle": "End Date",
+        "value": "2026-09-06T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "cells": [
+      {
+        "columnTitle": "Title",
+        "value": "Считать эффективность / показать дельту"
+      },
+      {
+        "columnTitle": "Status",
+        "value": "To do"
+      },
+      {
+        "columnTitle": "Priority",
+        "value": "High"
+      },
+      {
+        "columnTitle": "Description",
+        "value": "Чёткий контроль профита от работы команды через чистый ручеёк"
+      },
+      {
+        "columnTitle": "Group",
+        "value": "Group 2"
+      },
+      {
+        "columnTitle": "Направление",
+        "value": "Чистый ручеёк и АБ тесты"
+      },
+      {
+        "columnTitle": "Start Date",
+        "value": "2026-09-07T09:00:00Z"
+      },
+      {
+        "columnTitle": "End Date",
+        "value": "2026-09-21T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "cells": [
+      {
+        "columnTitle": "Title",
+        "value": "Движок АБ Тестов"
+      },
+      {
+        "columnTitle": "Status",
+        "value": "To do"
+      },
+      {
+        "columnTitle": "Priority",
+        "value": "High"
+      },
+      {
+        "columnTitle": "Description",
+        "value": "Проводить АБС пилоты различных решений с сохранением данных в аналитическом контуре"
+      },
+      {
+        "columnTitle": "Group",
+        "value": "Group 2"
+      },
+      {
+        "columnTitle": "Направление",
+        "value": "Чистый ручеёк и АБ тесты"
+      },
+      {
+        "columnTitle": "Start Date",
+        "value": "2026-09-22T09:00:00Z"
+      },
+      {
+        "columnTitle": "End Date",
+        "value": "2026-10-06T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "cells": [
+      {
+        "columnTitle": "Title",
+        "value": "Чистый Ручеек"
+      },
+      {
+        "columnTitle": "Status",
+        "value": "To do"
+      },
+      {
+        "columnTitle": "Priority",
+        "value": "Medium"
+      },
+      {
+        "columnTitle": "Description",
+        "value": "Сплитовка на витрины СРА сетей и тестирование разных ссылок на один оффер"
+      },
+      {
+        "columnTitle": "Group",
+        "value": "Group 2"
+      },
+      {
+        "columnTitle": "Направление",
+        "value": "Чистый ручеёк и АБ тесты"
+      },
+      {
+        "columnTitle": "Start Date",
+        "value": "2026-10-07T09:00:00Z"
+      },
+      {
+        "columnTitle": "End Date",
+        "value": "2026-10-21T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "cells": [
+      {
+        "columnTitle": "Title",
+        "value": "АБ тестирование дизайна витрин"
+      },
+      {
+        "columnTitle": "Status",
+        "value": "To do"
+      },
+      {
+        "columnTitle": "Priority",
+        "value": "Medium"
+      },
+      {
+        "columnTitle": "Description",
+        "value": "Глобальный тест разных дизайнов, размеров плашек и т.д."
+      },
+      {
+        "columnTitle": "Group",
+        "value": "Group 2"
+      },
+      {
+        "columnTitle": "Направление",
+        "value": "Чистый ручеёк и АБ тесты"
+      },
+      {
+        "columnTitle": "Start Date",
+        "value": "2026-10-22T09:00:00Z"
+      },
+      {
+        "columnTitle": "End Date",
+        "value": "2026-11-05T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "cells": [
+      {
+        "columnTitle": "Title",
+        "value": "АБС Эксперименты (модуль/движок)"
+      },
+      {
+        "columnTitle": "Status",
+        "value": "To do"
+      },
+      {
+        "columnTitle": "Priority",
+        "value": "High"
+      },
+      {
+        "columnTitle": "Description",
+        "value": "Быстро и безболезненно проводить эксперименты с контрагентами"
+      },
+      {
+        "columnTitle": "Group",
+        "value": "Group 2"
+      },
+      {
+        "columnTitle": "Направление",
+        "value": "Чистый ручеёк и АБ тесты"
+      },
+      {
+        "columnTitle": "Start Date",
+        "value": "2026-11-06T09:00:00Z"
+      },
+      {
+        "columnTitle": "End Date",
+        "value": "2026-11-20T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "cells": [
+      {
+        "columnTitle": "Title",
+        "value": "Смарт Движок отказных 1.0 + Умнение"
+      },
+      {
+        "columnTitle": "Status",
+        "value": "To do"
+      },
+      {
+        "columnTitle": "Priority",
+        "value": "High"
+      },
+      {
+        "columnTitle": "Description",
+        "value": "Подключение всех витрин на Смарт Движок и управление трафиком через платформу"
+      },
+      {
+        "columnTitle": "Group",
+        "value": "Group 3"
+      },
+      {
+        "columnTitle": "Направление",
+        "value": "Смарт Движок (автоматизация) (умнота)"
+      },
+      {
+        "columnTitle": "Start Date",
+        "value": "2026-11-21T09:00:00Z"
+      },
+      {
+        "columnTitle": "End Date",
+        "value": "2026-12-05T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "cells": [
+      {
+        "columnTitle": "Title",
+        "value": "Быстрые сайты на Смарте \"в 2 клика\""
+      },
+      {
+        "columnTitle": "Status",
+        "value": "To do"
+      },
+      {
+        "columnTitle": "Priority",
+        "value": "High"
+      },
+      {
+        "columnTitle": "Description",
+        "value": "Набор ПО для быстрого развёртывания на новый источник или проект"
+      },
+      {
+        "columnTitle": "Group",
+        "value": "Group 3"
+      },
+      {
+        "columnTitle": "Направление",
+        "value": "Смарт Движок (автоматизация) (умнота)"
+      },
+      {
+        "columnTitle": "Start Date",
+        "value": "2026-12-06T09:00:00Z"
+      },
+      {
+        "columnTitle": "End Date",
+        "value": "2026-12-20T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "cells": [
+      {
+        "columnTitle": "Title",
+        "value": "Анифрод + анти мотив"
+      },
+      {
+        "columnTitle": "Status",
+        "value": "To do"
+      },
+      {
+        "columnTitle": "Priority",
+        "value": "Medium"
+      },
+      {
+        "columnTitle": "Description",
+        "value": "Модуль антифрода в трафиковом потоке"
+      },
+      {
+        "columnTitle": "Group",
+        "value": "Group 3"
+      },
+      {
+        "columnTitle": "Направление",
+        "value": "Смарт Движок (автоматизация) (умнота)"
+      },
+      {
+        "columnTitle": "Start Date",
+        "value": "2026-12-21T09:00:00Z"
+      },
+      {
+        "columnTitle": "End Date",
+        "value": "2027-01-04T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "cells": [
+      {
+        "columnTitle": "Title",
+        "value": "Качество трафика"
+      },
+      {
+        "columnTitle": "Status",
+        "value": "To do"
+      },
+      {
+        "columnTitle": "Priority",
+        "value": "Medium"
+      },
+      {
+        "columnTitle": "Description",
+        "value": "Модель качества клиентов по вебмастерам и источникам на входе"
+      },
+      {
+        "columnTitle": "Group",
+        "value": "Group 3"
+      },
+      {
+        "columnTitle": "Направление",
+        "value": "Смарт Движок (автоматизация) (умнота)"
+      },
+      {
+        "columnTitle": "Start Date",
+        "value": "2027-01-05T09:00:00Z"
+      },
+      {
+        "columnTitle": "End Date",
+        "value": "2027-01-19T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "cells": [
+      {
+        "columnTitle": "Title",
+        "value": "Фичеринг для СМАРТ"
+      },
+      {
+        "columnTitle": "Status",
+        "value": "To do"
+      },
+      {
+        "columnTitle": "Priority",
+        "value": "Medium"
+      },
+      {
+        "columnTitle": "Description",
+        "value": "Раз в квартал генерировать новые фичи для моделей"
+      },
+      {
+        "columnTitle": "Group",
+        "value": "Group 3"
+      },
+      {
+        "columnTitle": "Направление",
+        "value": "Смарт Движок (автоматизация) (умнота)"
+      },
+      {
+        "columnTitle": "Start Date",
+        "value": "2027-01-20T09:00:00Z"
+      },
+      {
+        "columnTitle": "End Date",
+        "value": "2027-02-03T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "cells": [
+      {
+        "columnTitle": "Title",
+        "value": "Модуль автоподкидывания офферов"
+      },
+      {
+        "columnTitle": "Status",
+        "value": "Done"
+      },
+      {
+        "columnTitle": "Priority",
+        "value": "Low"
+      },
+      {
+        "columnTitle": "Description",
+        "value": "Тестирование новых офферов без слива бюджета с топовых"
+      },
+      {
+        "columnTitle": "Group",
+        "value": "Group 3"
+      },
+      {
+        "columnTitle": "Направление",
+        "value": "Смарт Движок (автоматизация) (умнота)"
+      },
+      {
+        "columnTitle": "Start Date",
+        "value": "2027-02-04T09:00:00Z"
+      },
+      {
+        "columnTitle": "End Date",
+        "value": "2027-02-18T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "cells": [
+      {
+        "columnTitle": "Title",
+        "value": "Обогащение внешними данными"
+      },
+      {
+        "columnTitle": "Status",
+        "value": "To do"
+      },
+      {
+        "columnTitle": "Priority",
+        "value": "Medium"
+      },
+      {
+        "columnTitle": "Description",
+        "value": "Обогащение данных по клиентам в БД из DMP и других источников"
+      },
+      {
+        "columnTitle": "Group",
+        "value": "Group 3"
+      },
+      {
+        "columnTitle": "Направление",
+        "value": "Смарт Движок (автоматизация) (умнота)"
+      },
+      {
+        "columnTitle": "Start Date",
+        "value": "2027-02-19T09:00:00Z"
+      },
+      {
+        "columnTitle": "End Date",
+        "value": "2027-03-05T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "cells": [
+      {
+        "columnTitle": "Title",
+        "value": "Переобучение моделей без данных БКИ"
+      },
+      {
+        "columnTitle": "Status",
+        "value": "To do"
+      },
+      {
+        "columnTitle": "Priority",
+        "value": "Medium"
+      },
+      {
+        "columnTitle": "Description",
+        "value": "Новая регуляторка — модели без сильных переменных БКИ"
+      },
+      {
+        "columnTitle": "Group",
+        "value": "Group 3"
+      },
+      {
+        "columnTitle": "Направление",
+        "value": "Смарт Движок (автоматизация) (умнота)"
+      },
+      {
+        "columnTitle": "Start Date",
+        "value": "2027-03-06T09:00:00Z"
+      },
+      {
+        "columnTitle": "End Date",
+        "value": "2027-03-20T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "cells": [
+      {
+        "columnTitle": "Title",
+        "value": "Модуль АБ пилотов смарт моделей"
+      },
+      {
+        "columnTitle": "Status",
+        "value": "To do"
+      },
+      {
+        "columnTitle": "Priority",
+        "value": "Medium"
+      },
+      {
+        "columnTitle": "Description",
+        "value": "АБ пилоты на каждом элементе: плейсмент, механика, витрина, ссылки"
+      },
+      {
+        "columnTitle": "Group",
+        "value": "Group 3"
+      },
+      {
+        "columnTitle": "Направление",
+        "value": "Смарт Движок (автоматизация) (умнота)"
+      },
+      {
+        "columnTitle": "Start Date",
+        "value": "2027-03-21T09:00:00Z"
+      },
+      {
+        "columnTitle": "End Date",
+        "value": "2027-04-04T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "cells": [
+      {
+        "columnTitle": "Title",
+        "value": "Построение моделей для всех типов трафика"
+      },
+      {
+        "columnTitle": "Status",
+        "value": "To do"
+      },
+      {
+        "columnTitle": "Priority",
+        "value": "Medium"
+      },
+      {
+        "columnTitle": "Description",
+        "value": "Модели не только для отказного 301, но и для всех механик"
+      },
+      {
+        "columnTitle": "Group",
+        "value": "Group 3"
+      },
+      {
+        "columnTitle": "Направление",
+        "value": "Смарт Движок (автоматизация) (умнота)"
+      },
+      {
+        "columnTitle": "Start Date",
+        "value": "2027-04-05T09:00:00Z"
+      },
+      {
+        "columnTitle": "End Date",
+        "value": "2027-04-19T18:00:00Z"
+      }
+    ]
+  }
+]
