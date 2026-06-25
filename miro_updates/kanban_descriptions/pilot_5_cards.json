@@ -1,0 +1,42 @@
+[
+  {
+    "id": "3458764676440309125",
+    "title": "Комбэкер на ДОПО",
+    "column": "Механики on-site",
+    "type": "task",
+    "miro_url": "https://miro.com/app/board/uXjVHNWUGQ4=/?moveToWidget=3458764676440309125",
+    "status": "updated"
+  },
+  {
+    "id": "3458764676440309033",
+    "title": "Графана для Контроля жизнеспособности сервисов",
+    "column": "Тех.долг и инфра",
+    "type": "task",
+    "miro_url": "https://miro.com/app/board/uXjVHNWUGQ4=/?moveToWidget=3458764676440309033",
+    "status": "updated"
+  },
+  {
+    "id": "3458764676440309035",
+    "title": "Пиксели ВК и авто ретаргетинг",
+    "column": "Ретаргетинг и медиа",
+    "type": "task",
+    "miro_url": "https://miro.com/app/board/uXjVHNWUGQ4=/?moveToWidget=3458764676440309035",
+    "status": "updated"
+  },
+  {
+    "id": "3458764676440309042",
+    "title": "Трекинг сквозной аналитики и атрибуция",
+    "column": "BI + Сквозная аналитика",
+    "type": "task",
+    "miro_url": "https://miro.com/app/board/uXjVHNWUGQ4=/?moveToWidget=3458764676440309042",
+    "status": "updated"
+  },
+  {
+    "id": "3458764676440309030",
+    "title": "ЛК для клиентов наших витрин",
+    "column": "CRM и коммуникации",
+    "type": "epic",
+    "miro_url": "https://miro.com/app/board/uXjVHNWUGQ4=/?moveToWidget=3458764676440309030",
+    "status": "updated"
+  }
+]
